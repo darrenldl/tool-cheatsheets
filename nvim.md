@@ -8,3 +8,7 @@ set tw=40
 ```
 
 Then highlight and type `gq`
+
+## Go back to/restore previous selection
+
+`gv`
