@@ -1,4 +1,4 @@
-# Neovim/vim
+# Neovim/Vim
 
 ## Break lines
 
